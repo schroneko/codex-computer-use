@@ -21,3 +21,7 @@ npx skills add schroneko/codex-computer-use -g -a claude-code -a codex -y
 - Codex.app bundled `codex` CLI available
 - Computer Use plugin enabled in Codex.app
 - Target app approved for Computer Use
+
+## License
+
+MIT
