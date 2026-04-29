@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Computer Use"
+  short_description: "Bridge Computer Use to other agents"
+  default_prompt: "Use $codex-computer-use to inspect or operate a macOS app through codex exec."
